@@ -1,7 +1,7 @@
 import React from 'react';
 import { renderHTML } from '../agility/utils'
 
-const RichTextArea = ({ item }) => {
+const TextandImage = ({ item }) => {
 
     return (
         <section className="container">
