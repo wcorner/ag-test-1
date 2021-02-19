@@ -4,7 +4,9 @@ import { renderHTML } from '../agility/utils'
 const RichTextArea = ({ item }) => {
 
     return (
-        <p>Test</p>
+        <section className="container">
+            <p>Test</p>
+        </section>
     );
 }
 
