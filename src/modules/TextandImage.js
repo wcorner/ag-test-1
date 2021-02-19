@@ -5,7 +5,7 @@ const RichTextArea = ({ item }) => {
 
     return (
         <section className="container">
-            <p>Test</p>
+            <p>{item.customFields.text}</p>
         </section>
     );
 }
